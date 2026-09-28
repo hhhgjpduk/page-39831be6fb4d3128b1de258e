@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.liannanfc.cn/sitemap.xml
